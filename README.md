@@ -105,6 +105,8 @@ By leveraging <strong>Python</strong> for data processing, <strong>MS SQL</stron
 
 
 <h2>5.0 Key Insights & Recommendations</h2>
+
+<h3>Python Analysis</h3>
 <ul>
 <li>Top project skills in demand are SQL, Python, ML, and Java.</li>
 <li>Skill gaps exist across all proficiency levels, with Advanced employees showing slightly higher gaps.</li>
@@ -112,7 +114,19 @@ By leveraging <strong>Python</strong> for data processing, <strong>MS SQL</stron
 <li>Training programs should prioritize Python and ML to align employee skills with project requirements.</li>
 <li>Cross-training is recommended rather than only improving proficiency in current skills.</li>
 </ul>
-<hr>
+
+<h3>SQL Analysis</h3>
+<ul>
+<li>Top 5 skill gaps identified via queries</li>
+<li>Gap rates by project skill highlight training priorities</li>
+</ul>
+
+<h3>Tableau Insights</h3>
+<ul>
+<li>KPI shows overall skill gap %</li>
+<li>Bar and donut charts visualize proficiency and skill demand</li>
+<li>Interactive dashboards allow filtering by project skill</li>
+</ul>
 
 <h2>6.0 How to Replicate</h2>
 <p>To run this analysis, ensure you have the following installed:</p>
