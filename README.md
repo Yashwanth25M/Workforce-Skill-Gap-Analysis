@@ -117,8 +117,8 @@ By leveraging <strong>Python</strong> for data processing, <strong>MS SQL</stron
 
 <h3>SQL Analysis</h3>
 <ul>
-<li>Top 5 skill gaps identified via queries</li>
-<li>Gap rates by project skill highlight training priorities</li>
+<li>The most in-demand project skills with employee gaps are Python, SQL, ML, and Java.  </li>
+<li>Skill gaps are present across all proficiency levels, helping identify areas for targeted training programs.</li>
 </ul>
 
 <h3>Tableau Insights</h3>
