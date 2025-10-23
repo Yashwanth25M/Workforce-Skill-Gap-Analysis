@@ -104,7 +104,7 @@ By leveraging <strong>Python</strong> for data processing, <strong>MS SQL</stron
 
 
 
-<h2>6.0 Key Insights & Recommendations</h2>
+<h2>5.0 Key Insights & Recommendations</h2>
 <ul>
 <li>Top project skills in demand are SQL, Python, ML, and Java.</li>
 <li>Skill gaps exist across all proficiency levels, with Advanced employees showing slightly higher gaps.</li>
@@ -114,7 +114,7 @@ By leveraging <strong>Python</strong> for data processing, <strong>MS SQL</stron
 </ul>
 <hr>
 
-<h2>5.0 How to Replicate</h2>
+<h2>6.0 How to Replicate</h2>
 <p>To run this analysis, ensure you have the following installed:</p>
 <ul>
 <li><strong>Python 3.x</strong> with Pandas, Matplotlib, Seaborn</li>
